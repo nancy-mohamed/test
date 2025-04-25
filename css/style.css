@@ -387,6 +387,10 @@ transition: all 0.3s ease;
     color: var(--primary-color);
     background: #F9F9F9;
 }
+.ser_link img{
+    width: auto;
+    height: 45px;
+}
 /* footer */
 footer{
     position: relative;
