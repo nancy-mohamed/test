@@ -1,0 +1,203 @@
+@media(min-width:992px) and (max-width:1024.99px){
+    .send-question h2 {
+        font-size: 50px;
+        margin-bottom: 1rem;
+    }
+    .send-question p{
+        margin-bottom: 1rem;
+    }
+    .footer-logo img {
+        height: 150px;
+    }
+    .footer-contact .contact-info li .social-icons img {
+        height: 20px;
+    }
+    .footer-contact .contact-info li .social-icons {
+        gap: 7px;
+    }
+    .footer-logo .icon{
+        width: 150px;
+        height: 150px;
+    }
+    .footer-logo .icon img{
+        height: 100px;
+    }
+    .footer-logo .content {
+        width: calc(100% - 160px);
+    }
+    .footer-logo .content .name_lawyer {
+        font-size: 40px;
+        margin-bottom: 32px;
+    }
+}
+@media(max-width:991px){
+    .header-main{
+        justify-content: space-between;
+    }
+}
+@media(min-width:768px) and (max-width:991px){
+    .footer-logo img {
+        width: auto;
+        height: 120px;
+    }
+    .send-question h2 {
+        font-size: 35px;
+        margin-bottom: 1rem;
+    }
+    .send-question p{
+        font-size: 14px;
+        margin-bottom: 1rem;
+    }
+    .header-logo img {
+        width: auto;
+        height: 80px;
+    }
+    .single-question .question .content {
+        padding-left: 40px;
+    }
+    .footer-2 .short-links{
+        gap: 20px;
+    }
+    .footer-logo .icon{
+        width: 120px;
+        height: 120px;
+    }
+    .footer-logo .icon img{
+        height: 80px;
+    }
+    .footer-logo .content {
+        width: calc(100% - 130px);
+    }
+    .footer-logo .content .name_lawyer {
+        font-size: 30px;
+        margin-bottom: 22px;
+    }
+
+}
+@media(max-width:767px){
+    .header-logo img {
+        width: auto;
+        height: 60px;
+    }
+    .title{
+        font-size: 25px;
+    }
+    .footer-contact .contact-info li .social-icons{
+        flex-wrap: wrap;
+        gap: 6px;
+    }
+    .footer-contact h4{
+        font-size: 20px;
+    }
+    .footer-widgets h4{
+        font-size: 18px;
+    }
+    .footer-links li a{
+        font-size: 14px;
+    }
+    .footer-logo .icon{
+        width: 100px;
+        height: 100px;
+    }
+    .footer-logo .icon img{
+        height: 80px;
+    }
+    .footer-logo .content {
+        width: calc(100% - 110px);
+    }
+    .footer-logo .content .name_lawyer {
+        font-size: 30px;
+        margin-bottom: 22px;
+    }
+    .link-questions .item-question{
+        font-size: 15px;
+    }
+    .write-question .btn-send{
+        width: 30px;
+        height: 30px;
+        font-size: 15px;
+    }
+    .write-question input::placeholder{
+        font-size: 12px;
+    }
+    .services-content {
+        padding: 0;
+    }
+    .ser_link{
+        font-size: 16px;
+    }
+    .send-question h2{
+        font-size: 30px;
+    margin-bottom: 1rem;
+    }
+    .send-question p{
+        margin-bottom: 1rem;
+        font-size: 13px;
+    }
+    .send-question{
+        margin-bottom: 1rem;
+    }
+    .footer-widgets{
+        margin-bottom: 1rem;
+    }
+    .footer-contact .contact-info li .social-icons li{
+        width: auto;
+    }
+    .footer-contact .contact-info li .social-icons img {
+        height: 20px;
+    }
+    .single-question .question .content, .single-question .answer .content{
+        padding: 10px;
+    }
+    .single-question .question .content{
+        padding-left: 30px;
+    }
+    .single-question .question .content h3{
+       font-size: 14px;
+        line-height: 22px;
+    }
+    .single-question .question .content .icon_edit{
+        top: 20px;
+    }
+    .single-question .answer .content .text{
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .single-question .answer .content .actions span{
+        font-size: 18px;
+    }
+    .single-question .answer .content .actions{
+        padding: 10px 0 0;
+    }
+    .footer-2 .short-links{
+        justify-content: space-between;
+        gap: 1px;
+    }
+    .footer-2 .contact-info-style-2 {
+        gap: 1px;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 10px 0 0;
+    }
+    .sec-title{
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+    .btn-border{
+        padding: 14px 20px;
+        font-size: 16px;
+    }
+    .accordion-button{
+        font-size: 15px;
+        align-items: start;
+        line-height:23px ;
+    }
+    .accordion-body{
+        font-size: 14px;
+    line-height: 22px;
+    }
+    .accordion-item{
+        padding: 10px;
+    }
+
+}
