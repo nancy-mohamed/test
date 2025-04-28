@@ -3,24 +3,28 @@
     font-family: 'Almarai-Bold';
     font-style: normal;
     font-weight: normal;
+    font-display: swap;
     src: local('Almarai-Bold'), url('../fonts/Almarai-Bold.ttf') format('opentype');
   }
   @font-face {
     font-family: 'Almarai-ExtraBold';
     font-style: normal;
     font-weight: normal;
+    font-display: swap;
     src: local('Almarai-ExtraBold'), url('../fonts/Almarai-ExtraBold.ttf') format('opentype');
   }
   @font-face {
     font-family: 'Almarai-Light';
     font-style: normal;
     font-weight: normal;
+    font-display: swap;
     src: local('Almarai-Light'), url('../fonts/Almarai-Light.ttf') format('opentype');
   }
   @font-face {
     font-family: 'Almarai-Regular';
     font-style: normal;
     font-weight: normal;
+    font-display: swap;
     src: local('Almarai-Regular'), url('../fonts/Almarai-Regular.ttf') format('opentype');
   }
 
@@ -29,6 +33,7 @@
     font-family: 'Diwani Bent';
     font-style: normal;
     font-weight: normal;
+    font-display: swap;
     src: local('Diwani Bent'), url('../fonts/ArbFONTS-Diwani\ Bent.ttf') format('opentype');
   }
 
